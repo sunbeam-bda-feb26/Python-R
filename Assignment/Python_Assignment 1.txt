@@ -1,0 +1,46 @@
+1] Write a Python Program find an area of a rectangle and perimeter of the rectangle.
+
+2] Write a Python Program to Convert Celsius To Fahrenheit vice versa.
+   fahrenheit = (celsius * 1.8) + 32
+
+3] Write a program to accept a 4 digit number and
+   a. Display face value of each decimal digit
+   b. Display place value of each decimal digit
+   c. Display no in reverse order by changing decimal place values.
+   
+   If user enters a 4 digit number 9361 output should be
+   a. 9 3 6 1
+   b. 9361 = 9 000 + 300 + 60 + 9
+   c. 1639
+
+4] Write a program to accept three integer numbers and find its average.
+
+5] Write a Python function to find the maximum of three numbers.
+
+6] Write a Python Program Get age input from user and check if user is eligible for voting
+
+7] Write a Python program to find given number is positive ,negative or zero .
+
+8] Write a program that prompts the user to input number of calls and calculate the monthly   telephone bills as per the following rule:
+   Minimum Rs. 200 for up to 100 calls.
+   Plus Rs. 0.60 per call for next 50 calls.
+   Plus Rs. 0.50 per call for next 50 calls.
+   Plus Rs. 0.40 per call for any call beyond 200 calls.
+
+9] Write a program that prompts the user to input a year and determine whether the year is a leap  year or not. Leap Years are any year that can be evenly divided by 4.
+   A year that is evenly divisible by 100 is a leap year only if it is also evenly divisible by    400.
+   Example :
+   1992 Leap Year
+   2000 Leap Year
+   1900 NOT a Leap Year
+   1995 NOT a Leap Year
+
+10] The marks obtained by a student in 3 different subjects are input by the user. Your
+    program should calculate the average of subjects and display the grade. The student
+    gets a grade as per the following rules:
+    Average Grade
+    90-100 A
+    80-89 B
+    70-79 C
+    60-69 D
+     0-59 F
