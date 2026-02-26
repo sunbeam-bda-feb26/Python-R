@@ -1,0 +1,11 @@
+Q1: Write a function check_voter(name: str, age: int) that:
+
+   Uses a lambda to check if age ≥ 18
+
+   Returns True if eligible, otherwise False
+
+   Prints the eligibility message
+
+   Call the function for three people.
+
+Q2: Define four functions (add, subtract, multiply, divide), store them in a list, iterate over the list, and call each function with values (10, 20). Print the results.
