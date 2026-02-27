@@ -1,0 +1,21 @@
+1) Using for loop, write and run a Python program to find factorial from 0 to 10.
+
+2) Write a program that accepts a list from user and print the alternate element of list.
+
+3) Replace single element ‘b’ in given list [’a’, ’b’, ’c’, ’d’, ’e’] with [1, 2, 3].
+
+4) Write a program to find index of element ‘e’ in given vowels list [’a’, ’e’, ’i’,’o’, ’i’, ’u’]
+
+5) Define a function overlapping() that takes two lists and returns True if they have at least one member in common, False otherwise.
+
+6) Find and display the largest number of a list without using built-in function max(). Your program should ask the user to input values in list from keyboard.
+
+7) Write a function filter_long_words() that takes a list of words and an integer len and returns the list of words that are longer than len.
+
+8) Write a program that will calculate the price for a quantity entered from the keyboard, given that the unit price is Rs 5 and there is a discount of 10 percent for quantities over 30 and a 15
+percent discount for quantities over 50.
+
+9) Write a Python program to count the elements in a list until an element is a
+tuple.
+Sample input : list = [10, 20, 30, (40,50), 60]
+Sample output = 3
