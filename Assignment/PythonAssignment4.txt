@@ -1,0 +1,44 @@
+1. Write a Python program that finds the longest word in a list of strings. Use map() to calculate the length of each word, and filter() to get the word with the maximum length.
+   
+words = ["python", "functional", "programming", "is", "powerful"]
+
+2. Write a Python program to double all numbers in a given list of integers. Use Python map,lambda function.
+list1 = [1,2,3,4,5,6,7,8,9]
+
+3. Write a Python program to convert a given list of integers and a tuple of integers into a list  of strings.Use Python map.
+
+4. Write a Python program that calculates the sum of the squares of all odd numbers in a list of integers using map() and filter()
+
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+5. Write a Python program that adds two lists element-wise using the map() function.
+    input :   list1 = [1, 2, 3, 4, 5]
+              list2 = [5, 4, 3, 2, 1]
+    Expected Output  : [6, 6, 6, 6, 6]
+
+6. Write a Python program that filters out all strings that have more than 5 characters from a list of strings using the filter() function.
+Input : words = ['Red', 'Green', 'Yellow', 'Purple', 'Orange']
+Output : ['Yellow','Purple','Orange']
+
+7. Write a Python program that filters out numbers greater than 10 from a list of numbers using the filter() function.
+Input : numbers = [5, 12, 3, 18, 9, 20,22,21]
+Output : [12, 18, 20 , 22 , 21]
+
+8. Write a Python Program to find the repeated item of a tuple(Take a value
+#from user which you want to find)
+
+tuple1 = (12,13,14,16,18,20,21,14,18,14)
+
+9. Write a method in python to display the elements of list thrice if it is a number and display the element terminated with ‘#’ if it is not a number.
+Hint-: Use InBuilt Function isdigit()
+Refer below as a input:-
+mylist = [’41’,’DROND’,’Sunbeam’, ’13’,’ZARA’]
+
+10. Define a procedure histogram() that takes a list of integers and prints a histogram to the screen.
+For example, histogram([4, 9, 7]) should print the following:
+****
+*********
+*******
+
+11.  Write a Python program that filters out all palindromes from a list of strings using the filter() function.
+words = ['level', 'radar', 'hello', 'world', 'madam']
