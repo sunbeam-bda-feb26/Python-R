@@ -1,0 +1,26 @@
+1.Write a Python program to sort a list of tuples using Lambda.
+Original list of tuples:
+[('English', 88), ('Science', 90), ('Maths', 97), ('Social sciences', 82)]
+
+Sorting the List of Tuples:
+[('Social sciences', 82), ('English', 88), ('Science', 90), ('Maths', 97)]
+
+
+2.Write a Python program to find numbers divisible by nineteen or thirteen from a list of numbers using Lambda.
+
+Orginal list:
+[19, 65, 57, 39, 152, 639, 121, 44, 90, 190]
+
+Numbers of the above list divisible by nineteen or thirteen:
+[19, 65, 57, 39, 152, 190]
+
+3. Write a program in Python to remove repetitive items from a list.
+Hint Given num = [2,3,4,5,2,6,3,2]
+Expected output Result: [2, 3, 4, 5, 6] New list
+
+4. Python program to create a list of tuples from given list having number and its cube in each tuple.
+I/P-[1,2,5,6]  Output-[(1, 1), (2, 8), (5, 125), (6, 216)]
+
+5. Create a list of tuples where each tuple contains a number and its square for numbers from 0 to 9. Solve using list comprehension.
+
+6. Find all of the numbers from 1-1000 that are divisible by 7. Solve Using list Comprehension.
