@@ -1,0 +1,54 @@
+1) Given a dictionary of students and their favourite colours:
+people={'Arham':'Blue','Lisa':'Yellow',''Vinod:'Purple','Jenny':'Pink'}
+A. Find out how many students are in the list
+B. Change Lisa’s favourite colour
+C. Remove 'Jenny' and her favourite colour
+D. Sort and print students and their favourite colours alphabetically by name
+
+2) Write a program to sum all the values of a dictionary.
+Hint dict1 = {‘key 1’: 200, ‘key 2’: 300}
+Expected output
+Result: 500
+
+3) Define a function subtract() that takes two lists and returns difference (i.e. excess elements from list1). If list1 = [10, 20, 30, 40] and list2 = [30, 40, 50, 60], then result should be [10, 20].
+
+4) In following text count occurrence of each letter (irrespective of case). Hint: convert string to same case e.g. text.lower(). Do not use Counter collection.
+
+text = """Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."""
+
+5) In cryptography, a Caesar cipher is a very simple encryption techniques in which each letter in the plain text is replaced by a letter some fixed number of positions down the alphabet. For example, with a shift of 3, A would be replaced by D, B would become E, and so on. The method is named after Julius Caesar, who used it to communicate with his generals. ROT-13 ("rotate by 13 places") is a widely used example of a Caesar cipher where the shift is 13. In Python, the key for ROT-13 may be represented by means of the following dictionary:
+
+key = {'a':'n', 'b':'o', 'c':'p', 'd':'q', 'e':'r', 'f':'s', 'g':'t', 'h':'u', 'i':'v', 'j':'w', 'k':'x', 'l':'y', 'm':'z', 'n':'a',
+'o':'b','p':'c', 'q':'d', 'r':'e', 's':'f', 't':'g', 'u':'h', 'v':'i', 'w':'j', 'x':'k', 'y':'l', 'z':'m', 'A':'N', 'B':'O', 'C':'P',
+'D':'Q', 'E':'R','F':'S', 'G':'T', 'H':'U', 'I':'V', 'J':'W', 'K':'X', 'L':'Y', 'M':'Z', 'N':'A','O':'B', 'P':'C',
+'Q':'D','R':'E', 'S':'F', 'T':'G','U':'H', 'V':'I', 'W':'J', 'X':'K', 'Y':'L', 'Z':'M'}
+Your task in this exercise is to implement an encoder/decoder of ROT-13. Once you're done, You will be able to read the following secret message:
+Pnrfne pvcure? V zhpu cersre Pnrfne fnynq!
+Note that since English has 26 characters, your ROT-13 program will be able to both encode
+And decode texts written in English.
+
+
+6) Write a program in Python to find out the frequency of each number in stored in a list using a python dictionary.
+Example
+List1 = [1,2,3,4,5,6,7,8,9,7,6,2,4,2,5,23,6,4]
+Output ={1: 1, 2: 3, 3: 1, 4: 3, 5: 2, 6: 3, 7: 2, 8: 1, 9: 1, 23: 1}
+
+7) Write a program to read 6 numbers and create a dictionary having keys EVEN and ODD.
+  Dictionary's value should be stored in list. Your dictionary should be like:
+  {'EVEN':[8,10,64], 'ODD':[1,5,9]}
+
+8) Write a function translate() that will translate a text into "rövarspråket"
+  (Swedish for "robber's language"). That is, double every consonant and place an
+  occurrence of "o" in between. For example, translate("this is fun") should return
+  the string "tothohisos isos fofunon".
+
+9) Write a version of a palindrome recognizer that also accepts phrase
+palindromes such as "Go hanga salami I'm a lasagna hog.", 
+"Was it a rat I saw?", 
+"Step on no pets", 
+"Sit on a potato pan, Otis", 
+"Lisa Bonet ate no basil", 
+"Satan, oscillate my metallic sonatas", 
+"I roamed under it as a tired nude Maori",
+"Rise to vote sir", or the exclamation "Dammit, I'm mad!".
+Note that punctuation, capitalization, and spacing are usually ignored.
