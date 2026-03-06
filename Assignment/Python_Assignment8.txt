@@ -41,3 +41,7 @@ calculate_total() → returns total marks.
 calculate_percentage() → returns percentage (out of 300).
 
 has_passed() → returns True if percentage ≥ 40, else False.
+
+4.Create a class product having (pid and manufacture_location) as private fields,Create another class as Book having (name, number_of_pages,author,price) as private fields. Specify _init(), getters, setters, __str_() , print_data() Use correct OOP feature to implement this scenario.
+a) display the details of the product and book
+b) check if book price is 0 or negative then price is not valid otherwise print valid price.
