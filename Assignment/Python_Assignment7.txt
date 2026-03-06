@@ -1,0 +1,25 @@
+1 . A pangram is a sentence that contains all the letters of the English alphabet at least once.
+for example: The quick brown fox jumps over the lazy dog. 
+Your task here is to write a function to check a sentence to see if it is a pangram or not.
+
+2. Write a Python program to replace dictionary values(V,VI)and with their average.
+Input:-
+student_details= [{'id' : 1, 'subject' : 'math', 'V' : 70, 'VI' : 82},
+{'id' : 2, 'subject' : 'math', 'V' : 73, 'VI' : 74},
+{'id' : 3, 'subject' : 'math', 'V' : 75, 'VI' : 86}]
+Expected Output:
+[{'subject': 'math', 'id': 1, 'V+VI': 76.0}, {'subject': 'math', 'id': 2, 'V+VI': 73.5},
+{'subject': 'math', 'id': 3, 'V+VI': 80.5}]
+
+3. Write a program that display following output:
+ SHIFT
+ HIFTS
+ IFTSH
+ FTSHI
+ TSHIF
+ SHIFT
+
+
+4. Calculate the sum and average of the digits present in a string Str1="Python83737@#8496"
+expected Output : sum = 55
+                   avg = 6.111

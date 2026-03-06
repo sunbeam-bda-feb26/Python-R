@@ -1,0 +1,463 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2" pages="6">
+  <diagram name="Page-1" id="dKl9F_M2ytdeKfnxyjWS">
+    <mxGraphModel dx="678" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tBMX5UeRCatkK8hz27YE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tBMX5UeRCatkK8hz27YE-1" target="tBMX5UeRCatkK8hz27YE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBMX5UeRCatkK8hz27YE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tBMX5UeRCatkK8hz27YE-1" target="tBMX5UeRCatkK8hz27YE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBMX5UeRCatkK8hz27YE-1" value="Code Reuse" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="334" y="40" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tBMX5UeRCatkK8hz27YE-2" value="Procedure Oriented Programming" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBMX5UeRCatkK8hz27YE-4" value="Object Oriented Programming" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBMX5UeRCatkK8hz27YE-7" value="using function (procedure)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="115" y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tBMX5UeRCatkK8hz27YE-8" target="-FynJnu8Gfs_mWGPHPqj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tBMX5UeRCatkK8hz27YE-8" target="-FynJnu8Gfs_mWGPHPqj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBMX5UeRCatkK8hz27YE-8" value="using object" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="475" y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="-FynJnu8Gfs_mWGPHPqj-1" target="-FynJnu8Gfs_mWGPHPqj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="-FynJnu8Gfs_mWGPHPqj-1" target="-FynJnu8Gfs_mWGPHPqj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-1" value="Association" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="-FynJnu8Gfs_mWGPHPqj-2" target="-FynJnu8Gfs_mWGPHPqj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="-FynJnu8Gfs_mWGPHPqj-2" target="-FynJnu8Gfs_mWGPHPqj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="-FynJnu8Gfs_mWGPHPqj-2" target="-FynJnu8Gfs_mWGPHPqj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="-FynJnu8Gfs_mWGPHPqj-2" target="-FynJnu8Gfs_mWGPHPqj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="-FynJnu8Gfs_mWGPHPqj-2" target="-FynJnu8Gfs_mWGPHPqj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-2" value="Inheritance" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-5" value="Agreegation" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="284" y="460" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-6" value="Composition" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="475" y="460" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-9" value="single" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="460" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-10" value="multilevel" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="520" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-11" value="multiple" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="584.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-12" value="hierarchical" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="650" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-13" value="hybrid" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="710" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-19" value="has-a relation" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-20" value="is-a relation" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="731" y="330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-21" value="weak relationship" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="274" y="510" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-FynJnu8Gfs_mWGPHPqj-22" value="strong relationship" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="465" y="510" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KzVDGIQyzZXipirclSg5" name="Page-2">
+    <mxGraphModel dx="1242" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-1" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&quot;&quot;this is a dummy class&quot;&quot;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #af00db;&quot;&gt;pass&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="500" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-2" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person1&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-3" value="0x10026be10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-4" value="0x150000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-5" value="person1&lt;div&gt;reference&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-7" value="0x10026be10" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cNieB7eeRJLuRbaDQ2i0-3" target="cNieB7eeRJLuRbaDQ2i0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-9" value="object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-10" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;setattr&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person1&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;first_name&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;john&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-11" value="first_name: &quot;john&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-12" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;setattr&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person1&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;last_name&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;doe&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-13" value="last_name: &quot;doe&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="377" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-14" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person2&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="770" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-15" value="0x10026be10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-16" value="0x150000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="850" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-17" value="person1&lt;div&gt;reference&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="930" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-19" value="0x1049940d0" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="850" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cNieB7eeRJLuRbaDQ2i0-15" target="cNieB7eeRJLuRbaDQ2i0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-21" value="object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1040" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-22" value="first_name: &quot;jane&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="900" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-23" value="last_name: &quot;doe&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="937" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-24" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;setattr&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person2&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;first_name&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;jane&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1090" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-25" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;setattr&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person2&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;last_name&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;doe&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1130" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-27" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1420" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-29" value="0x1049940a0" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1390" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-30" value="object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1580" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNieB7eeRJLuRbaDQ2i0-33" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# this line will create an object without any reference&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1290" width="560" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dxumaHbiLBslz6a9AyXO" name="Page-3">
+    <mxGraphModel dx="1242" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7x3xLPhIuod3CU3b2tW7-1" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;model&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;company&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;price&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__model&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;model&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__company&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;company&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__price&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;price&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;set_price&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;price&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__price&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;price&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print_car_info&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;model   = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__model&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;company = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__company&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;price   = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__price&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;-&#39;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;80&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="560" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="7x3xLPhIuod3CU3b2tW7-2" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;car1&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;i10&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;hyundai&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;10&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-1" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;0x1049940d0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="790" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-2" value="0x150000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="760" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-3" value="car1&lt;div&gt;reference&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="840" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="823" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-5" value="0x1049940d0" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="793" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_GiWZUM_A2hf1cgHQ6Tx-1" target="_GiWZUM_A2hf1cgHQ6Tx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-7" value="object of Car class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="983" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-8" value="__model: &quot;i10&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="843" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-9" value="__company: &quot;hyundai&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="880" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-10" value="__price: 15" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="923" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-11" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;car2&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;car1&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1053" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="_GiWZUM_A2hf1cgHQ6Tx-12" target="_GiWZUM_A2hf1cgHQ6Tx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-12" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;0x1049940d0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="940" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-13" value="0x160000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_GiWZUM_A2hf1cgHQ6Tx-14" value="car2&lt;div&gt;reference&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="990" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Aqxu7gzlgMhGRWLFRbIk" name="Page-4">
+    <mxGraphModel dx="1078" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DU_StEI9aIsYJx2suxKK-1" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;model&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;str&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;price&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__model&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;model&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__price&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;price&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print_car_info&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;model = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__model&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;price = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__price&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="560" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="DU_StEI9aIsYJx2suxKK-2" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;str&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;address&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;str&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__name&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__address&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;address&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# person has-a car&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;car&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print_person_info&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;name = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__name&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;, address = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__address&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# since the __car is a refrence to a Car class object&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# to get the details, call print_car_info method&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print_car_info&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="560" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="DU_StEI9aIsYJx2suxKK-3" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# create a car class object&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;triber&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;12&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="980" width="440" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-1" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;0x1049940d0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1153" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-2" value="0x150000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1123" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-3" value="car&lt;div&gt;reference&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1203" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1153" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-5" value="0x1049940d0" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1123" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hY74mXwd3xfm0kTBuAhB-1" target="hY74mXwd3xfm0kTBuAhB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-7" value="object of Car class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1313" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-8" value="__model: &quot;triber&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1173" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-10" value="__price: 12" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1208" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-15" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# create a person class object&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;person&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Person&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;person1&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;pune&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="980" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-16" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;0x1049941d0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1157" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-17" value="0x160000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1128" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-18" value="person&lt;div&gt;reference&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1208" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1153" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-21" value="__name: &quot;person1&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1173" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-22" value="__address: &quot;pune&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1208" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hY74mXwd3xfm0kTBuAhB-16" target="hY74mXwd3xfm0kTBuAhB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hY74mXwd3xfm0kTBuAhB-24" value="0x1049941d0" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xahhgHzMQChAWPTYCHr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="4xahhgHzMQChAWPTYCHr-1" target="hY74mXwd3xfm0kTBuAhB-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="1273" />
+              <mxPoint x="470" y="1273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xahhgHzMQChAWPTYCHr-1" value="__car: 0x1049940d0" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1258" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xahhgHzMQChAWPTYCHr-3" value="has-a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1238" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="35PPNKh5Zse0Yn-KlDwL-1" value="object of Person class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1313" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5zU4FfhxcYIyp3eSisTY" name="Page-5">
+    <mxGraphModel dx="1186" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="__sC9AEEO_O3RID4MGp3-1" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Engine&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;str&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;fuel_type&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;str&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__name&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__fuel_type&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;fuel_type&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print_engine_info&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;name      = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__name&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;fuel type = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__fuel_type&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="560" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="__sC9AEEO_O3RID4MGp3-2" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;model&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;str&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;price&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;engine_name&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;str&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;fuel_type&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;str&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# save the car details&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__model&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;model&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__price&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;price&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# create an object of Engine&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__engine&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Engine&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;engine_name&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;fuel_type&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__del__&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# since there is a strong relationship between Car and Engine&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# lets delete engine when the car is getting deleted&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #af00db;&quot;&gt;del&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;__engine&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="560" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-1" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;0x1049940d0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1153" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-2" value="0x150000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1123" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-3" value="car&lt;div&gt;reference&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1203" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1153" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-5" value="0x1049940d0" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1123" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5l52C-G6kfOrn5qARlDi-1" target="5l52C-G6kfOrn5qARlDi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-7" value="object of Car class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1313" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-8" value="__model: &quot;triber&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1173" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-9" value="__price: 12" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1208" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1153" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-14" value="__name: &quot;renault-engine&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1173" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-15" value="__fuel_type: &quot;petrol&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1208" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-17" value="0x1049941d0" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-19" value="__engine: 0x1049941d0" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1248" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-20" value="composed-of" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1238" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-21" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;triber&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;12&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;renault-engine&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&#39;petrol&#39;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1010" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5l52C-G6kfOrn5qARlDi-19" target="5l52C-G6kfOrn5qARlDi-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5l52C-G6kfOrn5qARlDi-23" value="object of Engine class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1313" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gGQAxAKzwD56JOVi3-2S" name="Page-6">
+    <mxGraphModel dx="1186" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pFOzkCp_M8UvL_uAsGjT-1" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Vehicle&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# eplicit intializer&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;engine_name&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;str&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;engine_name&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;engine_name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print_vehicle_details&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;engine name = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;engine_name&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="560" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="pFOzkCp_M8UvL_uAsGjT-2" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Vehicle&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# initializer for Car&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;engine_name&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;model&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;company&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# initialize the super class&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Vehicle&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;__init__&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;engine_name&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #008000;&quot;&gt;# save the car properties&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;model&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;model&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;company&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;company&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;def&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print_car_details&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;model       = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;model&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;company     = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;company&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #795e26;&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;engine name = &lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #001080;&quot;&gt;engine_name&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="560" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="pFOzkCp_M8UvL_uAsGjT-3" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 25px;line-height: 38px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #001080;&quot;&gt;car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Car&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;v1.2&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;i10&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;hyundai&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1020" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IofuvzkRBN3t7EiOFBh-1" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;0x1049940d0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_IofuvzkRBN3t7EiOFBh-2" value="0x150000" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IofuvzkRBN3t7EiOFBh-3" value="car&lt;div&gt;reference&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_IofuvzkRBN3t7EiOFBh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1130" width="250" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_IofuvzkRBN3t7EiOFBh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_IofuvzkRBN3t7EiOFBh-1" target="_IofuvzkRBN3t7EiOFBh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IofuvzkRBN3t7EiOFBh-6" value="object of Car class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IofuvzkRBN3t7EiOFBh-8" value="model: &quot;i10&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1252" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ5zFAEzdFryimmxTM_d-1" value="0x1049940d0" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1100" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ5zFAEzdFryimmxTM_d-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1140" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IofuvzkRBN3t7EiOFBh-7" value="engine_name: &quot;v1.2&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="224" y="1150" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ5zFAEzdFryimmxTM_d-3" value="company: &quot;hyndai&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=15;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1290" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ5zFAEzdFryimmxTM_d-4" value="object of Vehicle class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1205" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

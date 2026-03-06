@@ -1,0 +1,43 @@
+1.
+Create a class named Mobile with attributes ModelName,Company,Price and with
+methods:set_attributes, print_details and can_afford
+
+
+2.
+Define a Circle class allowing to create a circleC (O, r) with center O(a, b) and radius r using the constructor:
+def init (self,a,b,r):
+self.a = a
+self.b = b
+self.r = r
+A:- Define a Area() method of the class which calculates the area of the circle.
+B:- Define a Perimeter() method of the class which allows you to calculate the perimeter of the circle.
+
+
+3.
+Create a class Student with the following features:
+
+Initializer (__init__)
+
+Data members: roll_no, name, math, physics, chemistry.
+
+Setters (mutators):
+
+set_name(name) → update student’s name.
+
+set_math(m), set_physics(p), set_chemistry(c) → update subject marks.
+
+Getters (accessors):
+
+get_roll_no()
+
+get_name()
+
+get_math(), get_physics(), get_chemistry()
+
+Facilitator methods:
+
+calculate_total() → returns total marks.
+
+calculate_percentage() → returns percentage (out of 300).
+
+has_passed() → returns True if percentage ≥ 40, else False.
